@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek P Manoj
 - 👀 I’m interested in Software Development and new technologies(AI, ML, etc.)
-- 🌱 I’m currently learning CS at MNNIT Allahabad 
-- 💞️ I’m looking to collaborate on projects, my main language is Java
+- 🌱 I’m currently learning Computer Science and Engineering at MNNIT Allahabad 
+- 💞️ I’m looking to collaborate on projects, my main languages are JAVA and C
 - 📫 How to reach me - through my email: abhipm112001@gmail.com
   
   
